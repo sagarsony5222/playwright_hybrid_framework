@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="698ab6d9-49b3-49dc-89ab-5ddfe689cd29" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/base/BaseAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/base/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/config/ConfigReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/config/EnvironmentConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/constants/FrameworkConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/drivers/DriverManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/drivers/PlaywrightFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/enums/BrowserType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/enums/Environment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exceptions/ElementNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exceptions/FrameworkException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listeners/AnnotationTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listeners/RetryAnalyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listeners/TestListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/APIUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/DatabaseUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/LoggerUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/ReportUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/ScreenshotUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/TestDataReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/WaitUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/allure.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/prod.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/qa.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testdata/sql/testdata.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testdata/testdata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testdata/testdata.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/dataproviders/TestDataProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runners/ParallelRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runners/RegressionSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runners/TestNGRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/api/APITest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/integration/E2ETest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/web/HomeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/web/LoginTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="32Uv63imQ4xRQuSYv5iDkUOuErE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sagar.soni/Documents/GitHub/playwright_hybrid_framework/untitled/src/main/resources/config&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/sagar.soni/Documents/GitHub/playwright_hybrid_framework/untitled/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sagar.soni\Documents\GitHub\playwright_hybrid_framework\untitled\src\main\resources\config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sagar.soni\Documents\GitHub\playwright_hybrid_framework\untitled\src\main\resources" />
+      <recent name="C:\Users\sagar.soni\Documents\GitHub\playwright_hybrid_framework\untitled\src\main\java" />
+      <recent name="C:\Users\sagar.soni\Documents\GitHub\playwright_hybrid_framework\untitled" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="698ab6d9-49b3-49dc-89ab-5ddfe689cd29" name="Changes" comment="" />
+      <created>1757487787741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757487787741</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
