@@ -1,0 +1,21 @@
+version: "3.9"
+services:
+  tests:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    environment:
+      - MAVEN_OPTS=-Xmx2g
+      - ALLURE_RESULTS_DIR=target/allure-results
+      - env=QA
+      - HEADLESS=true
+      - SUITE=src/test/java/runners/ParallelRunner.xml
+    shm_size: "2gb"
+    volumes:
+      - ../reports:/app/target/allure-results
+      - ../screenshots:/app/screenshots
+      - ../logs:/app/logs
+    command: >
+      bash -lc "mvn -q -e -B test
+      -Dsurefire.suiteXmlFiles=${SUITE}
+      -Dallure.results.directory=${ALLURE_RESULTS_DIR}"

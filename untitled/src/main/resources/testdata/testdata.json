@@ -1,0 +1,14 @@
+{
+  "login": {
+    "validUser": "qa.user@example.com",
+    "validPass": "Qa@1234",
+    "invalidUser": "bad.user@example.com",
+    "invalidPass": "Wrong@123"
+  },
+  "search": {
+    "queries": ["Playwright", "TestNG", "Allure"]
+  },
+  "apiPayloads": {
+    "newItem": { "name": "Playwright Item", "type": "test" }
+  }
+}
